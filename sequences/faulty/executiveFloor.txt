@@ -1,0 +1,59 @@
+[, push button to call elevator, push button to call elevator
+[, push button to call elevator, press target floor button
+[, push button to call elevator, door closed
+[, push button to call elevator, push button to close door
+[, push button to call elevator, elevator empty for ten seconds
+[, push button to call elevator, door opened, press target floor button, push button to call elevator
+[, push button to call elevator, door opened, press target floor button, door opened
+[, push button to call elevator, door opened, press target floor button, door closed
+[, push button to call elevator, door opened, press target floor button, reach target floor
+[, push button to call elevator, door opened, press target floor button, call elevator from executive floor
+[, push button to call elevator, door opened, press target floor button, elevator empty for ten seconds
+[, push button to call elevator, door opened, push button to call elevator
+[, push button to call elevator, door opened, door opened
+[, push button to call elevator, door opened, door closed
+[, push button to call elevator, door opened, reach target floor
+[, push button to call elevator, door opened, push button to close door
+[, push button to call elevator, door opened, call elevator from executive floor
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, push button to call elevator
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, press target floor button
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, door opened
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, door closed
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, push button to close door
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, call elevator from executive floor
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, elevator empty for ten seconds
+[, push button to call elevator, reach target floor, push button to call elevator
+[, push button to call elevator, reach target floor, press target floor button
+[, push button to call elevator, reach target floor, door closed
+[, push button to call elevator, reach target floor, reach target floor
+[, push button to call elevator, reach target floor, push button to close door
+[, push button to call elevator, reach target floor, call elevator from executive floor
+[, push button to call elevator, reach target floor, elevator empty for ten seconds
+[, push button to call elevator, door opened, press target floor button, push button to close door, push button to call elevator
+[, push button to call elevator, door opened, press target floor button, push button to close door, press target floor button
+[, push button to call elevator, door opened, press target floor button, push button to close door, door opened
+[, push button to call elevator, door opened, press target floor button, push button to close door, reach target floor
+[, push button to call elevator, door opened, press target floor button, push button to close door, push button to close door
+[, push button to call elevator, door opened, press target floor button, push button to close door, call elevator from executive floor
+[, push button to call elevator, door opened, press target floor button, push button to close door, elevator empty for ten seconds
+[, call elevator from executive floor, push button to call elevator
+[, call elevator from executive floor, press target floor button
+[, call elevator from executive floor, door opened
+[, call elevator from executive floor, door closed
+[, call elevator from executive floor, push button to close door
+[, call elevator from executive floor, call elevator from executive floor
+[, call elevator from executive floor, elevator empty for ten seconds
+[, push button to call elevator, door opened, elevator empty for ten seconds, push button to call elevator
+[, push button to call elevator, door opened, elevator empty for ten seconds, press target floor button
+[, push button to call elevator, door opened, elevator empty for ten seconds, door opened
+[, push button to call elevator, door opened, elevator empty for ten seconds, door closed
+[, push button to call elevator, door opened, elevator empty for ten seconds, reach target floor
+[, push button to call elevator, door opened, elevator empty for ten seconds, push button to close door
+[, push button to call elevator, door opened, elevator empty for ten seconds, call elevator from executive floor
+[, push button to call elevator, door opened, elevator empty for ten seconds, elevator empty for ten seconds
+[, press target floor button
+[, door opened
+[, door closed
+[, reach target floor
+[, push button to close door
+[, elevator empty for ten seconds

@@ -1,0 +1,4 @@
+[, push button to call elevator, door opened, press target floor button, press target floor button, signal weight increase, signal weight increase, push button to close door, door closed, reach target floor, door opened, signal weight increase, signal weight decrease, signal weight decrease, push button to close door, door closed, reach target floor, door opened, signal weight decrease, signal weight increase, press target floor button, signal weight decrease, press target floor button, push button to close door, door closed, reach target floor, door opened, elevator empty for ten seconds, ]
+[, call elevator from executive floor, reach target floor, door opened, elevator empty for ten seconds, ]
+[, push button to call elevator, reach target floor, door opened, elevator empty for ten seconds, ]
+[, push button to call elevator, call elevator from executive floor, reach target floor, door opened, elevator empty for ten seconds, ]

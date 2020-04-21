@@ -1,0 +1,105 @@
+[, push button to call elevator, push button to call elevator
+[, push button to call elevator, press target floor button
+[, push button to call elevator, door closed
+[, push button to call elevator, push button to close door
+[, push button to call elevator, signal weight increase
+[, push button to call elevator, signal weight decrease
+[, push button to call elevator, print overloaded alarm
+[, push button to call elevator, elevator empty for ten seconds
+[, push button to call elevator, door opened, press target floor button, push button to call elevator
+[, push button to call elevator, door opened, press target floor button, door opened
+[, push button to call elevator, door opened, press target floor button, door closed
+[, push button to call elevator, door opened, press target floor button, reach target floor
+[, push button to call elevator, door opened, press target floor button, print overloaded alarm
+[, push button to call elevator, door opened, press target floor button, elevator empty for ten seconds
+[, push button to call elevator, door opened, press target floor button, call elevator from executive floor
+[, push button to call elevator, door opened, push button to call elevator
+[, push button to call elevator, door opened, door opened
+[, push button to call elevator, door opened, door closed
+[, push button to call elevator, door opened, reach target floor
+[, push button to call elevator, door opened, push button to close door
+[, push button to call elevator, door opened, print overloaded alarm
+[, push button to call elevator, door opened, call elevator from executive floor
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, push button to call elevator
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, press target floor button
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, door opened
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, door closed
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, push button to close door
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, signal weight increase
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, signal weight decrease
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, print overloaded alarm
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, elevator empty for ten seconds
+[, push button to call elevator, door opened, press target floor button, push button to close door, door closed, call elevator from executive floor
+[, push button to call elevator, reach target floor, push button to call elevator
+[, push button to call elevator, reach target floor, press target floor button
+[, push button to call elevator, reach target floor, door closed
+[, push button to call elevator, reach target floor, reach target floor
+[, push button to call elevator, reach target floor, push button to close door
+[, push button to call elevator, reach target floor, signal weight increase
+[, push button to call elevator, reach target floor, signal weight decrease
+[, push button to call elevator, reach target floor, print overloaded alarm
+[, push button to call elevator, reach target floor, elevator empty for ten seconds
+[, push button to call elevator, reach target floor, call elevator from executive floor
+[, push button to call elevator, door opened, press target floor button, push button to close door, push button to call elevator
+[, push button to call elevator, door opened, press target floor button, push button to close door, press target floor button
+[, push button to call elevator, door opened, press target floor button, push button to close door, door opened
+[, push button to call elevator, door opened, press target floor button, push button to close door, reach target floor
+[, push button to call elevator, door opened, press target floor button, push button to close door, push button to close door
+[, push button to call elevator, door opened, press target floor button, push button to close door, signal weight increase
+[, push button to call elevator, door opened, press target floor button, push button to close door, signal weight decrease
+[, push button to call elevator, door opened, press target floor button, push button to close door, print overloaded alarm
+[, push button to call elevator, door opened, press target floor button, push button to close door, elevator empty for ten seconds
+[, push button to call elevator, door opened, press target floor button, push button to close door, call elevator from executive floor
+[, push button to call elevator, door opened, signal weight increase, push button to call elevator
+[, push button to call elevator, door opened, signal weight increase, door opened
+[, push button to call elevator, door opened, signal weight increase, door closed
+[, push button to call elevator, door opened, signal weight increase, reach target floor
+[, push button to call elevator, door opened, signal weight increase, elevator empty for ten seconds
+[, push button to call elevator, door opened, signal weight increase, call elevator from executive floor
+[, push button to call elevator, door opened, signal weight decrease, push button to call elevator
+[, push button to call elevator, door opened, signal weight decrease, door opened
+[, push button to call elevator, door opened, signal weight decrease, door closed
+[, push button to call elevator, door opened, signal weight decrease, reach target floor
+[, push button to call elevator, door opened, signal weight decrease, print overloaded alarm
+[, push button to call elevator, door opened, signal weight decrease, elevator empty for ten seconds
+[, push button to call elevator, door opened, signal weight decrease, call elevator from executive floor
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, push button to call elevator
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, press target floor button
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, door opened
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, door closed
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, reach target floor
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, push button to close door
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, signal weight increase
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, print overloaded alarm
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, elevator empty for ten seconds
+[, push button to call elevator, door opened, signal weight increase, print overloaded alarm, call elevator from executive floor
+[, push button to call elevator, door opened, elevator empty for ten seconds, push button to call elevator
+[, push button to call elevator, door opened, elevator empty for ten seconds, press target floor button
+[, push button to call elevator, door opened, elevator empty for ten seconds, door opened
+[, push button to call elevator, door opened, elevator empty for ten seconds, door closed
+[, push button to call elevator, door opened, elevator empty for ten seconds, reach target floor
+[, push button to call elevator, door opened, elevator empty for ten seconds, push button to close door
+[, push button to call elevator, door opened, elevator empty for ten seconds, signal weight increase
+[, push button to call elevator, door opened, elevator empty for ten seconds, signal weight decrease
+[, push button to call elevator, door opened, elevator empty for ten seconds, print overloaded alarm
+[, push button to call elevator, door opened, elevator empty for ten seconds, elevator empty for ten seconds
+[, push button to call elevator, door opened, elevator empty for ten seconds, call elevator from executive floor
+[, call elevator from executive floor, push button to call elevator
+[, call elevator from executive floor, press target floor button
+[, call elevator from executive floor, door opened
+[, call elevator from executive floor, door closed
+[, call elevator from executive floor, push button to close door
+[, call elevator from executive floor, signal weight increase
+[, call elevator from executive floor, signal weight decrease
+[, call elevator from executive floor, print overloaded alarm
+[, call elevator from executive floor, elevator empty for ten seconds
+[, call elevator from executive floor, call elevator from executive floor
+[, press target floor button
+[, door opened
+[, door closed
+[, reach target floor
+[, push button to close door
+[, signal weight increase
+[, signal weight decrease
+[, print overloaded alarm
+[, elevator empty for ten seconds

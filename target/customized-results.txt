@@ -1,0 +1,19 @@
+All 16 test sequences passed.
+
+| GHERKIN FEATURE       | STATUS | TRANSITION WHERE THE ERROR OCCURED | ERROR LOCATION |
+| executiveFloor1       | passed |                                    |                |
+| executiveFloor2       | passed |                                    |                |
+| executiveFloor3       | passed |                                    |                |
+| executiveFloor4       | passed |                                    |                |
+| fullProduct1          | passed |                                    |                |
+| fullProduct2          | passed |                                    |                |
+| fullProduct3          | passed |                                    |                |
+| fullProduct4          | passed |                                    |                |
+| weight1               | passed |                                    |                |
+| weight2               | passed |                                    |                |
+| weightExecutiveFloor1 | passed |                                    |                |
+| weightExecutiveFloor2 | passed |                                    |                |
+| weightExecutiveFloor3 | passed |                                    |                |
+| weightExecutiveFloor4 | passed |                                    |                |
+| weightOverloaded1     | passed |                                    |                |
+| weightOverloaded2     | passed |                                    |                |
